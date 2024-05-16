@@ -1,6 +1,6 @@
 ## Olá, meu nome é Winicius Alexandre!
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Winiicius&layout=compact&theme=dracula">
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Winiicius&layout=compact&theme=gruvbox">
 
 - Cursando Análise e Desenvolvimento de Sistemas!
 - Você pode ver minhas linguagens mais utilizadas aqui ->
