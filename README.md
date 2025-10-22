@@ -20,4 +20,6 @@
   <a href="https://github.com/Winiicius">
   <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=Winiicius&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
   <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Winiicius&layout=compact&theme=gruvbox">
+  <p></p>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Winiicius&theme=gruvbox&border_radius=5.5&locale=pt&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
 </div>
